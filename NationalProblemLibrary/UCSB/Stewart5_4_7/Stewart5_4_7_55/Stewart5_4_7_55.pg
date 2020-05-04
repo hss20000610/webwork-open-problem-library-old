@@ -37,7 +37,7 @@ $PAR
 
 An observer stands at a point P, one unit away from a
 track. Two runners start at the point S in the figure and run
-along the track. One runner runs $a times as fast as the
+along the track. One runner runs $2 times as fast as the
 other. Find the maximum value of the observer's angle of sight
 \(\theta\) between the runners. [Hint: Maximize \(\tan \theta
 \)]
@@ -51,6 +51,6 @@ $PAR
 
 END_TEXT
 
-ANS(num_cmp(atan(1/sqrt($a))));
+ANS(num_cmp(atan(1/sqrt($2))));
 
 ENDDOCUMENT();
